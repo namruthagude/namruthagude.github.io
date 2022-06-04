@@ -1,0 +1,91 @@
+[{
+
+"categoryId": 2,
+
+"categoryTitle": "Watch next TV",
+
+"categoryItemList":[{ 
+  "fileUrl": "https://learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+
+"id": 2,
+
+"imageUrl": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/04/23/903342-netflix-dark.jpg",
+
+"movieName": "DARK"
+},
+
+{
+"fileUrl": "https://learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+"id": 2, 
+"imageUrl": "https://www.newsmagnify.com/wp-content/uploads/2021/06/ray-web-series.jpg",
+
+"movieName": "RAY"
+}
+]
+},
+{
+"categoryId": 2,
+
+"categoryTitle": "Amazon Original series",
+"categoryItemList":[{
+
+"fileUrl": "https://learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4", 
+"id": 2,
+
+"imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202007/Announcement_Key_Art.jpeg?Q.G8N92xuNYy2lApLjzIBypqPWP2dinq&size=770:433",
+
+"movieName": "Bandish Bandits" 
+},
+{
+"fileUrl": "https://learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4", 
+"id": 2,
+"imageUrl": "https://assets.wired.com/photos/w_730/wp-content/uploads/2018/10/TheExpanse-FINAL.jpg",
+"movieName": "The Expanse"
+}
+]
+},
+  {
+"categoryId": 2,
+
+"categoryTitle": "Popular Movies",
+"categoryItemList":[{
+
+"fileUrl": "https://learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4", 
+"id": 2,
+
+"imageUrl": "https://www.seelatest.com/images/50-best-hindi-web-series--list-of-top-indian-web-series-1602070946_see.jpg",
+
+"movieName": "Breathe" 
+},
+{
+"fileUrl": "https://learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4", 
+"id": 2,
+"imageUrl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/daredevil_lob_crd_02.jpg",
+"movieName": "Dare Devil"
+}
+]
+
+}
+,
+  {
+"categoryId": 2,
+
+"categoryTitle": "Popular TvSeries",
+"categoryItemList":[{
+
+"fileUrl": "https://learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4", 
+"id": 2,
+
+"imageUrl": "https://viralkekda.com/wp-content/uploads/2021/05/Lucifer-Season-5-Part-2-Cast-Wiki-Trailer-IMDb-Netflix-Web-Series-Watch-Online-Free-Download-Hindi-Dubbed.jpg",
+
+"movieName": "Lucifer" 
+},
+{
+"fileUrl": "https://learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4", 
+"id": 2,
+"imageUrl": "https://i.pinimg.com/236x/be/02/5c/be025c5c240ade420c4ff155ba2dd9f9.jpg",
+"movieName": "Black Summer"
+}
+]
+}
+]
