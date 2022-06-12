@@ -87,5 +87,30 @@
 "movieName": "Black Summer"
 }
 ]
+},
+{
+
+"categoryId": 2,
+
+"categoryTitle": "Horror Movies",
+
+"categoryItemList":[{ 
+  "fileUrl": "https://learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+
+"id": 2,
+
+"imageUrl": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/04/23/903342-netflix-dark.jpg",
+
+"movieName": "DARK"
+},
+
+{
+"fileUrl": "https://learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+"id": 2, 
+"imageUrl": "https://www.newsmagnify.com/wp-content/uploads/2021/06/ray-web-series.jpg",
+
+"movieName": "RAY"
+}
+]
 }
 ]
